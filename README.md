@@ -1,18 +1,13 @@
 <img src="cover.png" alt="Maow" align="center" width="645" height="360"/>
 
-[![Java](java.png | width=63)]()
-[![Rust](rust.png | width=63)]()
-[![JavaScript](js.png | width=63)]()
-[![C#](csharp.png | width=63)]()
-[![TypeScript](ts.png | width=63)]()
-[![Kotlin](kotlin.png | width=63)]()
-
-<img src="java.png" alt="Java" width="63" height="63"/>
-<img src="rust.png" alt="Rust" width="63" height="63"/>
-<img src="js.png" alt="JavaScript" width="63" height="63"/>
-<img src="csharp.png" alt="C#" width="63" height="63"/>
-<img src="ts.png" alt="TypeScript" width="63" height="63"/>
-<img src="kotlin.png" alt="Kotlin" width="63" height="63"/>
+<p float="left">
+	<img src="java.png" alt="Java" width="63" height="63"/>
+	<img src="rust.png" alt="Rust" width="63" height="63"/>
+	<img src="js.png" alt="JavaScript" width="63" height="63"/>
+	<img src="csharp.png" alt="C#" width="63" height="63"/>
+	<img src="ts.png" alt="TypeScript" width="63" height="63"/>
+	<img src="kotlin.png" alt="Kotlin" width="63" height="63"/>
+</p>
 
 ## :cat2::computer: **overview:~$**
 

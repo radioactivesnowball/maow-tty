@@ -11,23 +11,25 @@
 	<img src="kotlin.png" alt="Kotlin" width="63" height="63"/>
 </p>
 
-## :cat2::computer:  **overview:~$**
+## :computer::cat2:  **overview:~$**
 
 <img src="sidebanner.png" align="right" width="237" height="377"/>
 
-**Hi!** I'm a long-time tech nerd from the U.S. I enjoy digging deep into software and am fascinated and interested in every little thing.
+#### **Hi!**
+
+I'm a long-time tech nerd from the U.S. I enjoy digging deep into software and am fascinated and interested in every little thing.
 My main focus is on backend and game development, but on occasion I also do web development.
 
 My programming journey started in 2019 when I picked up Java to make mods for Minecraft.
 Since then I've done a lot in it and it is the language I'm most experienced in, although I prefer Rust for its ecosystem, tooling, and advantages.
 
-## :sparkles:  **fancy_stuff:~$**
+## :computer::sparkles:  **fancy_stuff:~$**
 
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=maow-tty&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=maow-tty&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## :hammer:  **other:~$**
+## :computer::hammer:  **other:~$**
 
 ### ./platforms
 

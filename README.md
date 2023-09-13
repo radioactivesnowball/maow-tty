@@ -27,14 +27,8 @@ Since then I've done a lot in it and it is the language I'm most experienced in,
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=maow-tty&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## :hammer:  **other:~$**
-
-### ./platforms
+## :hammer:  **platforms:~$**
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/maow)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15503388/maow)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://maowimpl.itch.io)
-
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
